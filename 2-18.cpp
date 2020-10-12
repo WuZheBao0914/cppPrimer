@@ -1,3 +1,4 @@
+/*
 #include<iostream>
 using namespace std;
 int main() {
@@ -8,3 +9,4 @@ int main() {
 	cout << *ptr << endl;
 	return 0;
 }
+*/

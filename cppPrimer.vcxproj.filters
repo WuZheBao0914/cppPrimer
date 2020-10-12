@@ -54,5 +54,8 @@
     <ClCompile Include="2-18.cpp">
       <Filter>源文件\Chapter2</Filter>
     </ClCompile>
+    <ClCompile Include="2-28.cpp">
+      <Filter>源文件\Chapter2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

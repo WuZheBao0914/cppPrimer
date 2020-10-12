@@ -1,4 +1,5 @@
-/*#include<iostream>
+/*
+#include<iostream>
 using namespace std;
 int main() {
 	int i = 0, &r1 = i;
